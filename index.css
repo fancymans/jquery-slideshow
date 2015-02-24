@@ -1,0 +1,79 @@
+/* Container for slide */
+#slideshowWrapper {
+    width: 460px;
+    height: 259px;
+    overflow: hidden;
+    position: relative;
+}
+
+/* Class for the whole slideshow */
+#slideshowWrapper .slideshow {
+    display: block;
+    width: 2300px;
+    height: 259px;
+    margin: 0;
+    padding: 0;
+}
+
+/* Class for each slide */
+#slideshowWrapper .slide {
+    float: left;
+    list-style-type: none;
+    width: 460px;
+    height: 259px;
+}
+
+/* Class for the image in each slide */
+#slideshowWrapper .slide img {
+    width: 460px;
+    height: 259px;
+}
+
+/* Caption/description text for the slide */
+.caption{
+    background: none repeat scroll 0 0 #000000;
+    bottom: 0%;
+    color: #FFFFFF;
+    font: 14px;
+    left: 5px;
+    margin: 0 0 13px 13px;
+    padding: 5px;
+    position: absolute;
+    z-index: 1;
+}
+
+/* Button to go to next slide */
+.next {
+    color: #fff;
+    position: absolute;
+    background: rgba(0,0,0, .6);
+    top: 50%;
+    right: 0;
+    padding: 10px 5px 15px 10px;
+    z-index: 1;
+    font-size: 2em;
+    margin-top: -.75em;
+    opacity: .5;
+    user-select: none;
+}
+
+/* Button to go to previous slide */
+.prev {
+    color: #fff;
+    position: absolute;
+    background: rgba(0,0,0, .6);
+    top: 50%;
+    left: 0;
+    padding: 10px 5px 15px 10px;
+    z-index: 1;
+    font-size: 2em;
+    margin-top: -.75em;
+    opacity: .5;
+    user-select: none;
+}
+
+/* Hover changes button opacity */
+.next:hover, .prev:hover{
+    cursor: pointer;
+    opacity: 1;
+}

@@ -1,0 +1,961 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hover",
+				"hoverHandlerOut"
+			],
+			[
+				"wake",
+				"wake_timer"
+			],
+			[
+				"sleep",
+				"sleeping_list"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"cnas",
+				"cnascommunications"
+			],
+			[
+				"sl",
+				"sleeping_threads"
+			],
+			[
+				"timerti",
+				"timer_ticks"
+			],
+			[
+				"curre",
+				"curr_thread"
+			],
+			[
+				"curr",
+				"curr_thread"
+			],
+			[
+				"current",
+				"current_thread"
+			],
+			[
+				"cur",
+				"curr_thread"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"siz",
+				"font-size"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"botto",
+				"text-bottom"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"cont",
+				"contactCardPhoto"
+			],
+			[
+				"outline",
+				"outline-color"
+			],
+			[
+				"outl",
+				"outline-style"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"image",
+				"background-image"
+			],
+			[
+				"positi",
+				"position"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"ALP",
+				"ALPHADIGIT"
+			],
+			[
+				"IDENT",
+				"IDENTIFIER"
+			],
+			[
+				"resul",
+				"resultset"
+			],
+			[
+				"shop",
+				"shopbudd_db"
+			],
+			[
+				"mysqli_conn",
+				"mysqli_connect_errno"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"rand",
+				"rand_num"
+			],
+			[
+				"n",
+				"num"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"content",
+				"content_section"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"right",
+				"margin-right"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"borderco",
+				"border-color"
+			],
+			[
+				"backgr",
+				"background-repeat"
+			],
+			[
+				"send",
+				"sendBufferP2P"
+			],
+			[
+				"buf",
+				"bufLen"
+			],
+			[
+				"recv",
+				"recvBufferP2P"
+			],
+			[
+				"Parti",
+				"ParticleSystem"
+			],
+			[
+				"BSP",
+				"BSPNode"
+			],
+			[
+				"front",
+				"front_space"
+			],
+			[
+				"tmp",
+				"tmp_front"
+			],
+			[
+				"cons",
+				"construct_spaces"
+			],
+			[
+				"P",
+				"Point2D"
+			],
+			[
+				"is_",
+				"is_horiz"
+			],
+			[
+				"is",
+				"is_left"
+			],
+			[
+				"p",
+				"partition"
+			],
+			[
+				"BS",
+				"BSP_LEAF"
+			],
+			[
+				"bs",
+				"bsp_tree"
+			],
+			[
+				"BSP_",
+				"BSP_LEAF"
+			],
+			[
+				"objs",
+				"objs_back"
+			],
+			[
+				"spacefront",
+				"space_front_height"
+			],
+			[
+				"space_height_",
+				"space_height_back"
+			],
+			[
+				"space",
+				"space_height"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"Line",
+				"Line2D"
+			],
+			[
+				"objs_",
+				"objs_front"
+			],
+			[
+				"spl",
+				"split_p2"
+			],
+			[
+				"split",
+				"split_p1"
+			],
+			[
+				"line",
+				"line_pts"
+			],
+			[
+				"ma",
+				"magnitude"
+			],
+			[
+				"clo",
+				"closest_point"
+			],
+			[
+				"proj",
+				"proj_scaler"
+			],
+			[
+				"line_",
+				"line_seg_unit"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1013,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main.js",
+			"settings":
+			{
+				"buffer_size": 1757,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.css",
+			"settings":
+			{
+				"buffer_size": 383,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "jquery-2.1.3.min.js",
+			"settings":
+			{
+				"buffer_size": 84320,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/HTML.sublime-build",
+	"command_palette":
+	{
+		"height": 373.0,
+		"selected_items":
+		[
+			[
+				"sslex",
+				"Set Syntax: Lex/Flex"
+			],
+			[
+				"ssfl",
+				"Set Syntax: Lex/Flex"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Lin/Desktop/CNAS Work/slideshow_project/index.css",
+		"/Users/Lin/Desktop/CNAS Work/slideshow_project/main.js",
+		"/Users/Lin/Desktop/CNAS Work/slideshow_project/index.html",
+		"/Users/Lin/Desktop/CNAS Work/slideshow_project/slideshow.sublime-project",
+		"/Users/Lin/Desktop/slideshow/index.html",
+		"/Users/Lin/Library/Application Support/Yummy FTP/Remote Edits/cnas.ucr.edu Edits/local.css14/local.css",
+		"/Users/Lin/Library/Application Support/Yummy FTP/Remote Edits/cnas.ucr.edu Edits/index.php4/index.php",
+		"/Users/Lin/Desktop/slideshow/index.css",
+		"/Users/Lin/Library/Application Support/Sublime Text 2/Packages/User/HTML.sublime-build",
+		"/Users/Lin/Desktop/slideshow/main.js",
+		"/Users/Lin/Library/Application Support/Yummy FTP/Remote Edits/cnas.ucr.edu Edits/index.php3/index.php",
+		"/Users/Lin/Library/Application Support/Yummy FTP/Remote Edits/cnas.ucr.edu Edits/index-1.html/index-1.html",
+		"/Users/Lin/Library/Application Support/Yummy FTP/Remote Edits/cnas.ucr.edu Edits/local.css13/local.css",
+		"/Users/Lin/Library/Application Support/Yummy FTP/Remote Edits/cnas.ucr.edu Edits/index.html2/index.html",
+		"/Users/Lin/Desktop/mkflds.js",
+		"/Users/Lin/Library/Application Support/Yummy FTP/Remote Edits/cnas.ucr.edu Edits/config.php11/config.php",
+		"/Users/Lin/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/Lin/Desktop/blah.html",
+		"/Users/Lin/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Lin/Desktop/d.html",
+		"/Users/Lin/Library/Application Support/Yummy FTP/Remote Edits/cnas.ucr.edu Edits/local.css11/local.css",
+		"/Users/Lin/Library/Application Support/Yummy FTP/Remote Edits/cnas.ucr.edu Edits/local.css10/local.css",
+		"/Users/Lin/Desktop/test.cc",
+		"/Users/Lin/Library/Application Support/Yummy FTP/Remote Edits/sledge.cs.ucr.edu Edits/thread.h1/thread.h",
+		"/Users/Lin/Library/Application Support/Yummy FTP/Remote Edits/sledge.cs.ucr.edu Edits/thread.c1/thread.c",
+		"/Users/Lin/Library/Application Support/Yummy FTP/Remote Edits/sledge.cs.ucr.edu Edits/timer.c1/timer.c",
+		"/Users/Lin/Library/Application Support/Yummy FTP/Remote Edits/sledge.cs.ucr.edu Edits/list.h1/list.h",
+		"/Users/Lin/Library/Application Support/Yummy FTP/Remote Edits/sledge.cs.ucr.edu Edits/list.c1/list.c",
+		"/Users/Lin/PINTOS/Pintos-Project-1/src/devices/timer.h",
+		"/Users/Lin/Library/Application Support/Yummy FTP/Remote Edits/sledge.cs.ucr.edu Edits/pintos/pintos",
+		"/Users/Lin/Library/Application Support/Yummy FTP/Remote Edits/sledge.cs.ucr.edu Edits/Makefile/Makefile",
+		"/Users/Lin/Library/Application Support/Yummy FTP/Remote Edits/sledge.cs.ucr.edu Edits/Make.vars/Make.vars",
+		"/Users/Lin/Dropbox/ucr/cs/opengl_makefile",
+		"/Users/Lin/Desktop/mini-l_analyzer.lex",
+		"/Users/Lin/Dropbox/work/website/styles.css",
+		"/Users/Lin/Dropbox/work/website/layout.css",
+		"/Users/Lin/Dropbox/work/website/index.html",
+		"/Users/Lin/Desktop/untitled folder/cnas/profile_archive/doe_jane.html",
+		"/Users/Lin/Desktop/helloworld.cpp",
+		"/Users/Lin/Library/Application Support/Yummy FTP/Remote Edits/sledge.cs.ucr.edu Edits/list.c/list.c",
+		"/Users/Lin/Library/Application Support/Yummy FTP/Remote Edits/sledge.cs.ucr.edu Edits/synch.c/synch.c",
+		"/Users/Lin/Library/Application Support/Yummy FTP/Remote Edits/sledge.cs.ucr.edu Edits/thread.h/thread.h",
+		"/Users/Lin/Library/Application Support/Yummy FTP/Remote Edits/sledge.cs.ucr.edu Edits/thread.c/thread.c",
+		"/Users/Lin/Library/Application Support/Yummy FTP/Remote Edits/sledge.cs.ucr.edu Edits/list.h/list.h",
+		"/Users/Lin/PINTOS/Pintos-Project-1/src/devices/timer.c",
+		"/Users/Lin/Library/Application Support/Yummy FTP/Remote Edits/sledge.cs.ucr.edu Edits/timer.c/timer.c",
+		"/Users/Lin/Library/Application Support/Yummy FTP/Remote Edits/sledge.cs.ucr.edu Edits/.bash_profile/.bash_profile",
+		"/Users/Lin/Desktop/thread.c",
+		"/Users/Lin/Library/Application Support/Yummy FTP/Remote Edits/sledge.cs.ucr.edu Edits/malloc.c/malloc.c",
+		"/Users/Lin/Library/Application Support/Yummy FTP/Remote Edits/well.cs.ucr.edu Edits/mini-l_analyzer.lex/mini-l_analyzer.lex",
+		"/Users/Lin/Library/Application Support/Sublime Text 2/Packages/MacTerminal/MacTerminal.sublime-settings",
+		"/Users/Lin/Library/Application Support/Yummy FTP/Remote Edits/cnas.ucr.edu Edits/config.php10/config.php",
+		"/Users/Lin/Library/Application Support/Yummy FTP/Remote Edits/cnas.ucr.edu Edits/menu.txt1/menu.txt",
+		"/Users/Lin/Library/Application Support/Yummy FTP/Remote Edits/cnas.ucr.edu Edits/local.css7/local.css",
+		"/Users/Lin/Library/Application Support/Yummy FTP/Remote Edits/bell.cs.ucr.edu Edits/mini-l_analyzer.lex/mini-l_analyzer.lex",
+		"/Users/Lin/Library/Application Support/Yummy FTP/Remote Edits/bell.cs.ucr.edu Edits/sample1.lex/sample1.lex",
+		"/Users/Lin/Library/Application Support/Yummy FTP/Remote Edits/well.cs.ucr.edu Edits/main.cc18/main.cc",
+		"/Users/Lin/Desktop/gun.c",
+		"/Users/Lin/Dropbox/ucr/cs/cs130/assignment3/main.cc",
+		"/Users/Lin/Ogre3DSeparateBuildSpace/VinezorsiOS/VinezorsiOS/media/materials/scripts/GeneralTunnelTiles.material",
+		"/opt/X11/include/X11/Xutil.h",
+		"/Users/Lin/Dropbox/ucr/cs/cs130/assignment2/Makefile",
+		"/Users/Lin/Dropbox/ucr/cs/cs130/assignment2/main.cc",
+		"/Users/Lin/Dropbox/CS 122A/lab3/lab3_p2_3/lab3_p2_3/Debug/Makefile",
+		"/Users/Lin/Dropbox/CS 122A/lab3/lab3_p2_2/lab3_p2_2/Debug/Makefile",
+		"/Users/Lin/Dropbox/CS 122A/lab3/lab3_p2_1/lab3_p2_1/Debug/Makefile",
+		"/Users/Lin/Dropbox/CS 122A/lab3/lab3_p2_4/lab3_p2_4/Debug/Makefile",
+		"/Users/Lin/Dropbox/CS 122A/lab3/lab3_e1/lab3_e1/Debug/Makefile",
+		"/Applications/Autodesk/Composite 2014/OFX/Support/Plugins/MultiBundle/Makefile",
+		"/Users/Lin/Dropbox/ucr/cs/cs134/CS134_Final/Makefile",
+		"/Users/Lin/Dropbox/ucr/cs/cs134/lab6/Makefile",
+		"/Users/Lin/Desktop/test.c",
+		"/Users/Lin/Dropbox/ucr/cs/cs130/lab9/test.cc",
+		"/Users/Lin/Desktop/listgas.json",
+		"/Users/Lin/Library/Application Support/Yummy FTP/Remote Edits/shopbuddyucr.com Edits/newuser.php/newuser.php",
+		"/Users/Lin/Library/Application Support/Yummy FTP/Remote Edits/shopbuddyucr.com Edits/loginEX.php/loginEX.php",
+		"/Users/Lin/Library/Application Support/Yummy FTP/Remote Edits/shopbuddyucr.com Edits/login.php/login.php",
+		"/Users/Lin/Downloads/keypad.h",
+		"/Users/Lin/Desktop/windows stuff/atmel/6.1/lab9_ex1 - Copy - Copy/lab9_ex1/lab9_ex1.c",
+		"/Users/Lin/Dropbox/CS 122A/lab6/lab6_p1.c",
+		"/Users/Lin/Dropbox/CS 122A/lab6/lab6_p2.c",
+		"/Users/Lin/Downloads/lcd_8bit_task.h",
+		"/Users/Lin/Library/Application Support/Yummy FTP/Remote Edits/shopbuddyucr.com Edits/service.php3/service.php",
+		"/Users/Lin/Library/Application Support/Yummy FTP/Remote Edits/shopbuddyucr.com Edits/service.php2/service.php",
+		"/Users/Lin/Desktop/windows stuff/atmel/6.1/lab7_ex4/lab7_ex4/lab7_ex4.c",
+		"/Users/Lin/Desktop/windows stuff/atmel/6.1/lab7_ex3/lab7_ex3/lab7_ex3.c",
+		"/Users/Lin/Desktop/windows stuff/atmel/6.1/lab7_ex1/lab7_ex1/lab7_ex1.c",
+		"/Users/Lin/Desktop/dlin011_dtran042_lab7/lab7_p2_mc1.c",
+		"/Users/Lin/Desktop/dlin011_dtran042_lab7/lab7_p2_mc2.c",
+		"/Users/Lin/Desktop/dlin011_dtran042_lab7/lab7_p3.c",
+		"/Users/Lin/Desktop/dlin011_dtran042_lab7/lab7_p1.c",
+		"/Users/Lin/Dropbox/CS 122A/header_comments.c",
+		"/Users/Lin/Library/Application Support/Yummy FTP/Remote Edits/shopbuddyucr.com Edits/service.php1/service.php",
+		"/Users/Lin/Desktop/tmp.php",
+		"/Users/Lin/UCR-ShopBuddy/phptest/phptest/UserAccount.h",
+		"/Users/Lin/UCR-ShopBuddy/phptest/phptest/HomeModel.h",
+		"/Users/Lin/Desktop/tmp.m",
+		"/Users/Lin/Library/Application Support/Yummy FTP/Remote Edits/shopbuddyucr.com Edits/service.php/service.php",
+		"/Users/Lin/braingame/Documents/subject101/subject101.save",
+		"/Users/Lin/Dropbox/website/layout.css",
+		"/Users/Lin/Dropbox/ucr/cs/cs134/CS134_Final/media/materials/scripts/CustomOgre.material",
+		"/Users/Lin/Desktop/Fancymans/My Stuff/Windows/Windows 8/ProductKey.txt",
+		"/Users/Lin/Desktop/Fancymans/My Stuff/newq",
+		"/Users/Lin/Dropbox/website/styles.css",
+		"/Users/Lin/Dropbox/website/index.html",
+		"/Users/Lin/Dropbox/bash_profile",
+		"/Users/Lin/Desktop/main.cc",
+		"/Users/Lin/Ogre3DSeparateBuildSpace/Vinezors2.0/Vinezors2.0/LevelScheduler.h",
+		"/Users/Lin/Desktop/Ogre3DSeparateBuildSpace/Vinezors2.0/Vinezors2.0/PlayerProgress.cpp",
+		"/Users/Lin/Desktop/Ogre3DSeparateBuildSpace/Vinezors2.0/Vinezors2.0/PlayerProgress.h",
+		"/Users/Lin/Desktop/Ogre3DSeparateBuildSpace/Vinezors2.0/Vinezors2.0/LevelSet.h",
+		"/Users/Lin/Desktop/Ogre3DSeparateBuildSpace/Vinezors2.0/Vinezors2.0/LevelSet.cpp",
+		"/Users/Lin/Desktop/Ogre3DSeparateBuildSpace/Vinezors2.0/Vinezors2.0/LevelScheduler.h",
+		"/Users/Lin/Desktop/Ogre3DSeparateBuildSpace/Vinezors2.0/Vinezors2.0/LevelScheduler.cpp",
+		"/Users/Lin/Dropbox/ucr/cs/cs100/hw1/rolodex.cpp",
+		"/Users/Lin/Desktop/webpage.html",
+		"/Users/Lin/Dropbox/ucr/cs/cs014/assignment2redo/MyString.h",
+		"/Users/Lin/Dropbox/ucr/cs/cs014/assignment2redo/MyString.cpp",
+		"/Users/Lin/Desktop/a.html",
+		"/Users/Lin/Ogre3DSeparateBuildSpace/Vinezors2.0/Vinezors2.0/Player.cpp",
+		"/Users/Lin/Ogre3DSeparateBuildSpace/Vinezors2.0/Vinezors2.0/Player.h",
+		"/Users/Lin/Ogre3DSeparateBuildSpace/Vinezors2.0/Vinezors2.0/EngineStage.cpp",
+		"/Users/Lin/Ogre3DSeparateBuildSpace/Vinezors2.0/Vinezors2.0/LevelSet.cpp",
+		"/Users/Lin/Ogre3DSeparateBuildSpace/Vinezors2.0/Vinezors2.0/LevelSet.h",
+		"/Users/Lin/Ogre3DSeparateBuildSpace/Vinezors2.0/Vinezors2.0/EngineMainMenu.cpp",
+		"/Users/Lin/Ogre3DSeparateBuildSpace/Vinezors2.0/Vinezors2.0/OgreApp.cpp",
+		"/Users/Lin/Ogre3DSeparateBuildSpace/Vinezors2.0/Vinezors2.0/PlayerProgress.h",
+		"/Users/Lin/Ogre3DSeparateBuildSpace/Vinezors2.0/Vinezors2.0/PlayerProgress.cpp"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"script",
+			"class=\"p",
+			"class=\"p2\"",
+			"<div class=\"texttab-column\">",
+			"<span class=\"s1\">",
+			"<tr>",
+			"130px",
+			"180",
+			"180px",
+			"Chancellor",
+			"180px",
+			"/shared/images/new_portrait_thumbnails/",
+			">\n",
+			"alv",
+			"infoCardBody",
+			"sample_image.jpg",
+			"list_less_func",
+			"less",
+			"cmp_ticks",
+			"timer_ticks",
+			"sleep",
+			"block",
+			"stops ",
+			"cmp_ticks",
+			"bool list_less",
+			"list_less_func",
+			"cmp_ticks",
+			"init",
+			"marylynn_yates_thumb.gif",
+			"/shared/newcontact/images/",
+			"<br /> <br /> ",
+			"<p style=\"position: absolute; bottom: 0;\">",
+			"</strong> <br />",
+			"<p><strong>",
+			"<p style=\"position: absolute; bottom: 0;\">",
+			"<p><strong>",
+			"<div class=\"contactCard\">",
+			"blah",
+			"<div class=\"groupHeader\">\n<h3>",
+			"<h1 class=\"groupHeader\">",
+			"section3 ",
+			"APSU",
+			"</h1>\n</div>",
+			"<div class=\"groupHeader\">",
+			"15px",
+			"sleep_list",
+			"sleep",
+			"sleep_list",
+			"sleep",
+			"struct list",
+			"sleep",
+			"list",
+			"wake",
+			"timer",
+			"sleep",
+			"timer_sl",
+			"test",
+			"number",
+			"\");}",
+			";\n}",
+			";}",
+			"{",
+			"}",
+			"                                     ",
+			";",
+			"{pr",
+			"{p",
+			");}",
+			"\")",
+			"pirntf",
+			"normal",
+			"calculate_t",
+			"N",
+			"  ",
+			" ",
+			"  ",
+			"define",
+			"\">",
+			">2010",
+			">2011",
+			">2012",
+			">2013",
+			">2014",
+			"rotate",
+			"\"> ",
+			"&nbsp;",
+			">2012",
+			">2010",
+			">2011",
+			"2011-",
+			"2011",
+			"2014",
+			", ",
+			"\">",
+			"break;",
+			"// LCD_ClearScreen(); break;",
+			"output",
+			"LCD_ClearScreen()",
+			"<?php\n\n$host = \"localhost\";        //Your database host server\n$user = \"shopbudd_admin\";   //Your database user\n$pass = \"Ucr180()\";         //Your password\n$db   = \"shopbudd_db\";      //Your database name\n\n$connection = mysql_connect($host, $user, $pass);\n\n//Check to see if we can connect to the server\nif(!$connection)\n{\n    die(\"Database server connection failed.\");\n}\nelse\n{\n    //Attempt to select the database\n    $db_connect = mysql_select_db($db, $connection);\n\n    //Check to see if we could select the database\n    if(!$db_connect)\n    {\n        die(\"Unable to connect to the specified database!\");\n    }\n    else\n    {\n        $query = \"SELECT * FROM UserAccounts\";\n        $resultset = mysql_query($query, $connection);\n\n        $records = array();\n\n        //Loop through all our records and add them to our array\n        while($r = mysql_fetch_assoc($resultset))\n        {\n            $records[] = $r;\n        }\n\n        //Output the data as JSON\n        echo json_encode($records);\n    }\n\n\n}\n\n\n?>\n",
+			"itemsDownloaded",
+			"location",
+			"Location",
+			"location",
+			"Location",
+			"\n",
+			"0",
+			"</li>",
+			"<li>",
+			"auto",
+			"id=\"home\">",
+			"	margin: 0px;\n	padding: 0px;",
+			"0",
+			"0px",
+			"shadowEffect",
+			"style=\"height:",
+			"effect7",
+			"effect4",
+			"<div style=\"clear: both;\">&nbsp;</div>",
+			"</div>",
+			"<div style=\"clear: both;\">&nbsp;</div>",
+			"<p>",
+			"p",
+			"                    <",
+			"</table>",
+			"effect2",
+			"99",
+			"300px",
+			"height: 500px;"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 1013,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "main.js",
+					"settings":
+					{
+						"buffer_size": 1757,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.css",
+					"settings":
+					{
+						"buffer_size": 383,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "jquery-2.1.3.min.js",
+					"settings":
+					{
+						"buffer_size": 84320,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2399,
+								2399
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 110.0
+	},
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"layout.css"
+			],
+			[
+				"player.h",
+				"Vinezors2.0/Vinezors2.0/Player.h"
+			],
+			[
+				"player.cp",
+				"Vinezors2.0/Vinezors2.0/Player.cpp"
+			],
+			[
+				"playerprog",
+				"Vinezors2.0/Vinezors2.0/PlayerProgress.h"
+			],
+			[
+				"playerpro",
+				"Vinezors2.0/Vinezors2.0/PlayerProgress.cpp"
+			],
+			[
+				"levelse",
+				"Vinezors2.0/Vinezors2.0/LevelSet.h"
+			],
+			[
+				"levelset",
+				"Vinezors2.0/Vinezors2.0/LevelSet.cpp"
+			],
+			[
+				"levelscheduler.",
+				"Vinezors2.0/Vinezors2.0/LevelScheduler.h"
+			],
+			[
+				"levelsch",
+				"Vinezors2.0/Vinezors2.0/LevelScheduler.cpp"
+			],
+			[
+				"levelset.h",
+				"LevelSet.h"
+			],
+			[
+				"engin",
+				"EngineStage.cpp"
+			],
+			[
+				"ogreapp.cpp",
+				"OgreApp.cpp"
+			],
+			[
+				"enginemain",
+				"EngineMainMenu.cpp"
+			],
+			[
+				"engine",
+				"EngineStage.cpp"
+			],
+			[
+				"enginemaine",
+				"EngineMainMenu.cpp"
+			],
+			[
+				"playerp",
+				"PlayerProgress.h"
+			],
+			[
+				"levelsc",
+				"LevelScheduler.h"
+			],
+			[
+				"levelsched",
+				"LevelScheduler.cpp"
+			],
+			[
+				"levelsche",
+				"LevelScheduler.cpp"
+			],
+			[
+				"player.",
+				"Player.h"
+			],
+			[
+				"player",
+				"Player.cpp"
+			],
+			[
+				"player.cpp",
+				"Player.cpp"
+			],
+			[
+				"pla",
+				"Player.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/Lin/Dropbox/website/website.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 226.0,
+	"status_bar_visible": true
+}
