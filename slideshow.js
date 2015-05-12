@@ -1,6 +1,6 @@
 "use strict";
 
-$(document).ready(function () {
+jQuery(document).ready(function ($) {
 
 // ------------------------------------------------------------------------------//
 //                                  VARIABLES                                    //
@@ -8,16 +8,20 @@ $(document).ready(function () {
     // sliding params
     var time2Slide      = 7000;     // 7 secs till image slides
     var time4Slide      = 500;      // 0.5 secs for image to finish sliding
+    var time4Fade       = 250;      // 0.25 secs for caption to fade in/out (0.5 sec total)
     var amount2Slide    = 460;      // the amount of pixels to slide by
     var beginMargin     = 0;        // the margin to go to first slide
-    var endMargin       = 1840;     // the margin to go to last slide
-    var timeout         = 10000;    // 10 seconds to timeout before image starts sliding again
+    var slideMargin2    = 460;      // margin to second slide
+    var endMargin       = 920;      // the margin to go to last slide
+    var timeout         = 5000;     // 10 seconds to timeout before image starts sliding again
 
     // DOM cache
-    var $slider     = $("#slideshowWrapper .slideshow");    // what is animating
-    var $slides     = $("#slideshowWrapper .slide");        // the container holding all the slides
-    var numSlides   = $slides.length - 1;                   // number of slides in $slides
-    var currSlide   = 0;                                    // keeps track of the current slide
+    var $slider         = $("#slideshowWrapper .slideshow");    // what is animating
+    var $slides         = $("#slideshowWrapper .slide");        // the container holding all the slides
+    var numSlides       = $slides.length - 1;                   // number of slides in $slides
+    var currSlide       = 0;                                    // keeps track of the current slide
+    var slideaway       = 0; // calculates how many slides away when a numbered slide is clicked on
+    var amountNUMslide  = 0; // how much to slide to desination numbered
 // ------------------------------------------------------------------------------//
 
 
@@ -40,7 +44,9 @@ $(document).ready(function () {
             $slider.animate({marginLeft: "-=" +amount2Slide}, time4Slide);
             currSlide++;
         }
+
         showCaption();
+        highlightSlideNum();
     }
     // _____________________________________________________
 
@@ -52,6 +58,7 @@ $(document).ready(function () {
 
         // if current slide is the firrst slide then go to the last slide
         // otherwise slide to previous image
+        $(".caption").find("span").animate({opacity: 0});
         if (currSlide == 0) {
             $slider.animate({marginLeft: -endMargin}, time4Slide);
             currSlide = numSlides;
@@ -61,6 +68,7 @@ $(document).ready(function () {
             currSlide--;
         }
         showCaption();
+        highlightSlideNum();
     }
     // _____________________________________________________
 
@@ -89,22 +97,55 @@ $(document).ready(function () {
     // _____________________________________________________
 
 
+    //FUNCTION - called on when user clicks on a certain number button
+    function slideNumOnClick(event){
+        slideInterval = clearInterval(slideInterval);
+        if($(event.target).is('#s1')){    // goes to slide 1
+            $slider.animate({marginLeft: beginMargin}, time4Slide);
+            currSlide = 0;
+        }
+        else if($(event.target).is('#s2')){ //goes to slide 2
+            $slider.animate({marginLeft: -slideMargin2}, time4Slide);
+            currSlide = 1;
+        }
+        else if($(event.target).is('#s3')){ //goes to slide 3
+            $slider.animate({marginLeft: -endMargin}, time4Slide);
+            currSlide = 2;
+        }
+        showCaption();
+        highlightSlideNum();
+    }
+    //______________________________________________________
+
+
     // FUNCTION - shows the caption for the current slide. Called when page loads and each time slide transitions
     function showCaption() {
-        for (var i = 0; i <= numSlides; ++i) {
-            if (currSlide == i) {
+        $(".caption").find("span").animate({opacity: 0}, time4Fade, function() {
+            for (var i = 0; i <= numSlides; ++i) {
                 var currCaptionID = "caption" + i.toString();   // get the current caption ID
-
-                // debug messages
-                console.log("currSlide: %i", i);
-                console.log("Current caption ID: " + currCaptionID);
-
                 var captionText = document.getElementById(currCaptionID).textContent;
 
-                // debug message
-                console.log("Caption text: " + captionText);
+                if (currSlide == i) {
+                    $(".caption").find("span").text(captionText);
+                    $(".caption").find("span").animate({opacity: 1}, time4Fade);
+                }
+            }
+        });
+    }
+    // _____________________________________________________
 
-                $(".caption").html(captionText);    // insert captionText to the caption
+
+    // FUNCTION - highlights the current slide number the slideshow is on
+    function highlightSlideNum() {
+        var currSlideNumID = "";
+        for (var i = 0; i <= numSlides; ++i) {
+            currSlideNumID = "s" + (i+1).toString();        // get ID for page indicators
+
+            if (currSlide == i) {
+                document.getElementById(currSlideNumID).style.opacity = 1;
+            }
+            else {
+                document.getElementById(currSlideNumID).style.opacity = "";
             }
         }
     }
@@ -132,6 +173,7 @@ $(document).ready(function () {
 // ------------------------------------------------------------------------------//
     $("#captions").hide();  // Hides the preset captions
     showCaption();          // Show initial caption for 1st slide
+    highlightSlideNum();    // Highlights initial slide number
 
     // Animate slideshow in a set interval
     var slideInterval = setInterval(slideNext, time2Slide);
@@ -141,7 +183,11 @@ $(document).ready(function () {
 
     // When user clicks next button, slideshow slides to next image
     $(".next").click(slideNextOnClick);
+    // When user clicks on prev button, the slide goes to the prev image
     $(".prev").click(slidePrevOnClick);
+    // When user clicks on any of the numbered button it goes to that slide
+    $(".num").click(function(event) {
+        slideNumOnClick(event);
+    });
 });
 // ------------------------------------------------------------------------------//
-
