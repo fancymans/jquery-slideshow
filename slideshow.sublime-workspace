@@ -392,17 +392,20 @@
 	},
 	"file_history":
 	[
+		"/Users/Lin/github/jquery_slideshow/index.html",
+		"/Users/Lin/github/jquery_slideshow/index.css",
+		"/Users/Lin/github/jquery_slideshow/slideshow.js",
+		"/Users/Lin/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/Lin/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Lin/github/jquery_slideshow/jquery-2.1.3.min.js",
+		"/Users/Lin/github/jquery_slideshow/README.md",
 		"/Users/Lin/github/jquery_slideshow/slideshow.sublime-workspace",
 		"/Users/Lin/Library/Application Support/Yummy FTP/Remote Edits/well.cs.ucr.edu Edits/mini-l_analyzer.y1/mini-l_analyzer.y",
 		"/Users/Lin/Desktop/mini-l_analyzer.y",
 		"/Users/Lin/Desktop/mini-l_analyzer.lex",
 		"/Users/Lin/Library/Application Support/Yummy FTP/Remote Edits/well.cs.ucr.edu Edits/heading.h/heading.h",
-		"/Users/Lin/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 		"/Users/Lin/github/jquery_slideshow/main.js",
-		"/Users/Lin/github/jquery_slideshow/index.html",
-		"/Users/Lin/github/jquery_slideshow/index.css",
 		"/Users/Lin/Library/Application Support/Yummy FTP/Remote Edits/cnas.ucr.edu Edits/index.php5/index.php",
-		"/Users/Lin/github/jquery_slideshow/jquery-2.1.3.min.js",
 		"/Users/Lin/Library/Application Support/Yummy FTP/Remote Edits/cnas.ucr.edu Edits/local.css18/local.css",
 		"/Users/Lin/Dropbox/ucr/cs/cs179/Team-Roar/nexis/Assets/Scripts/UnitInfoScripts/PropertyList.js",
 		"/Users/Lin/Ogre3DSeparateBuildSpace/VinezorsiOS/VinezorsiOS/media/materials/scripts/GeneralTunnelTiles.material",
@@ -424,7 +427,6 @@
 		"/Users/Lin/Library/Application Support/Yummy FTP/Remote Edits/cnas.ucr.edu Edits/index.html2/index.html",
 		"/Users/Lin/Desktop/mkflds.js",
 		"/Users/Lin/Library/Application Support/Yummy FTP/Remote Edits/cnas.ucr.edu Edits/config.php11/config.php",
-		"/Users/Lin/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
 		"/Users/Lin/Desktop/blah.html",
 		"/Users/Lin/Desktop/d.html",
 		"/Users/Lin/Library/Application Support/Yummy FTP/Remote Edits/cnas.ucr.edu Edits/local.css11/local.css",
@@ -517,9 +519,7 @@
 		"/Users/Lin/Desktop/Ogre3DSeparateBuildSpace/Vinezors2.0/Vinezors2.0/PlayerProgress.h",
 		"/Users/Lin/Desktop/Ogre3DSeparateBuildSpace/Vinezors2.0/Vinezors2.0/LevelSet.h",
 		"/Users/Lin/Desktop/Ogre3DSeparateBuildSpace/Vinezors2.0/Vinezors2.0/LevelSet.cpp",
-		"/Users/Lin/Desktop/Ogre3DSeparateBuildSpace/Vinezors2.0/Vinezors2.0/LevelScheduler.h",
-		"/Users/Lin/Desktop/Ogre3DSeparateBuildSpace/Vinezors2.0/Vinezors2.0/LevelScheduler.cpp",
-		"/Users/Lin/Dropbox/ucr/cs/cs100/hw1/rolodex.cpp"
+		"/Users/Lin/Desktop/Ogre3DSeparateBuildSpace/Vinezors2.0/Vinezors2.0/LevelScheduler.h"
 	],
 	"find":
 	{
@@ -538,6 +538,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"80",
 			"cout << ",
 			"}",
 			"return",
@@ -664,8 +665,7 @@
 			"auto",
 			"id=\"home\">",
 			"	margin: 0px;\n	padding: 0px;",
-			"0",
-			"0px"
+			"0"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -683,11 +683,6 @@
 	},
 	"groups":
 	[
-		{
-			"sheets":
-			[
-			]
-		},
 		{
 			"sheets":
 			[
@@ -711,18 +706,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.5,
 			1.0
 		],
 		"rows":
